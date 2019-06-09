@@ -1,0 +1,20 @@
+[user]
+	name = Bill Turner
+	email = billturner@gmail.com
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[color]
+	branch = auto
+	status = auto
+	diff = auto
+[mirror]
+	summary = true
+[core]
+	editor = nvim
+[github]
+	user = billturner
+[push]
+	default = simple
